@@ -1,0 +1,10 @@
+Fonksiyon: Motor
+
+/*Başlangıçta false */
+
+Fonksiyon: Motor
+
+/
+
+*Varolan bir motor no ile oluşturuluyor.
+*/
