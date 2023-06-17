@@ -1,5 +1,5 @@
 # Concepts-Of-Programming-Languages-Project-2
--> A project that reads the java file to be given as a command line parameter through the console and calculates the comment lines in this file.
+-> A project that reads the java file to be given as a command line parameter through the console and calculates the comment lines in this file and prints each comment line to .txt files.
 
 -> Used regex to calculate comment lines
 
